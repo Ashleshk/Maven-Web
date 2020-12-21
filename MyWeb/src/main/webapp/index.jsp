@@ -7,6 +7,6 @@
 <title>WEb App</title>
 </head>
 <body>
-	Welcome to my Website Ashlesh You are Awesome Bro!!...
+	Welcome to my Website Ashlesh You are Awesome Brother!!...
 </body>
 </html>
